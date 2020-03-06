@@ -5,7 +5,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text>whats up Codee?!</Text>
-      <Text>YOOOOOOOOOOO!</Text>
+      <Text>Sam stinks</Text>
     </View>
   );
 }
